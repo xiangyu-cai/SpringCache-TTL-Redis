@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.caixy.spring.cache.ttl.config.SpringCacheTTLAutoConfiguration
